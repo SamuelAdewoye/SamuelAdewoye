@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @SamuelAdewoye
-- 👀 I’m interested in AI Design and Development, Product Design and Development
-- 🌱 I’m currently learning how to build Custom GPTs
-- 💞️ I’m looking to collaborate on AI projects and GPT Designing
-- 📫 How to reach me : cwebafrica@gmail.com
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I still play RoadRash
+### 👋 Hi, I'm Samuel Adewoye
+
+I'm a **Writer, Designer, Educator, and Builder** exploring the intersection of education, technology, design, and human potential.
+
+- 🧠 **Interests:** Education Technology, AI, Product Design, Software Development, and Human Capacity Development.
+- 🛠️ **Building:** [Medullam](https://medullam.com) — making quality knowledge, skills, and understanding more accessible through technology and design.
+- 🎮 **Exploring:** AI-assisted development, interactive learning experiences, educational games, and digital products.
+- 💡 **Philosophy:** Mindset. Meaning. Mastery.
+- 🤝 **Collaboration:** Open to interesting projects in education, AI, design, and technology.
+- 📫 **Contact:** cwebafrica@gmail.com
+- ⚡ **Fun fact:** I still play Road Rash.
+
+
 
 <!---
 SamuelAdewoye/SamuelAdewoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
